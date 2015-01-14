@@ -135,7 +135,7 @@
       "url": "mapbox://willpots.3fdf07e7"
     }
   },
-  "sprite": "/images/sprite",
+  "sprite": "images/sprite",
   "glyphs": "mapbox://fontstack/{fontstack}/{range}.pbf",
   "layers": [{
     "id": "background",
