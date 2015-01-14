@@ -1219,6 +1219,10 @@
       "text-anchor": "top"
     },
     "paint": {
+      "icon-size": {
+        "base": 1,
+        "stops": [[7, 0.5], [14, 1]]
+      },
       "text-color": "@poi_text",
       "text-size": 12,
       "text-opacity": {
