@@ -1,0 +1,50 @@
+{
+  "Monday-40": {
+    "x": 0,
+    "y": 0,
+    "width": 80,
+    "height": 80,
+    "pixelRatio": 2,
+    "sdf": false
+  },
+  "Tuesday-40": {
+    "x": 84,
+    "y": 0,
+    "width": 80,
+    "height": 80,
+    "pixelRatio": 2,
+    "sdf": false
+  },
+  "Wednesday-40": {
+    "x": 168,
+    "y": 0,
+    "width": 80,
+    "height": 80,
+    "pixelRatio": 2,
+    "sdf": false
+  },
+  "Thursday-40": {
+    "x": 152,
+    "y": 0,
+    "width": 80,
+    "height": 80,
+    "pixelRatio": 2,
+    "sdf": false
+  },
+  "Friday-40": {
+    "x": 336,
+    "y": 0,
+    "width": 80,
+    "height": 80,
+    "pixelRatio": 2,
+    "sdf": false
+  },
+  "Tuesday Thursday-40": {
+    "x": 420,
+    "y": 0,
+    "width": 80,
+    "height": 80,
+    "pixelRatio": 2,
+    "sdf": false
+  }
+}
