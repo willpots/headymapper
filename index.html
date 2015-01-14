@@ -39,7 +39,7 @@
       <td><img height="40" src="images/tues.png"></td>
     </tr>
     <tr>
-      <td>Wed</td>
+      <td>Wednesday</td>
       <td><img height="40" src="images/wed.png"></td>
     </tr>
     <tr>
@@ -60,6 +60,8 @@ var map = new mapboxgl.Map({
   center: [44.32806169328833, -72.3232118610924], // starting position
   zoom: 7.626174819748469 // starting zoom
 });
+map.addControl(new mapboxgl.Navigation());
+
 </script>
 
 </body>
