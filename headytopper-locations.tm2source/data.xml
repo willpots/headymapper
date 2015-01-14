@@ -5,14 +5,25 @@
 <Parameters>
   <Parameter name="attribution"><![CDATA[Will Potter & Alchemist Brewing]]></Parameter>
   <Parameter name="center">-73.0103,44.3796,11</Parameter>
-  <Parameter name="description"><![CDATA[Heady Topper Locations across Vermont.]]></Parameter>
+  <Parameter name="description"><![CDATA[Heady Topper Locations and Lawsons Locations across Vermont.]]></Parameter>
   <Parameter name="format">pbf</Parameter>
-  <Parameter name="json"><![CDATA[{"vector_layers":[{"id":"headytopper-locations","description":"Heady Topper Locations","fields":{"name":"String","address":"String","deliveryDate":"String","casesAvailable":"String","hoursOpen":"String","type":"String"}}]}]]></Parameter>
+  <Parameter name="json"><![CDATA[{"vector_layers":[{"id":"lawsons-locations","description":"Lawsons Locations","fields":{"name":"String","deliveryDate":"String"}},{"id":"headytopper-locations","description":"Heady Topper Locations","fields":{"name":"String","address":"String","deliveryDate":"String","casesAvailable":"String","hoursOpen":"String","type":"String"}}]}]]></Parameter>
   <Parameter name="maxzoom">16</Parameter>
   <Parameter name="minzoom">0</Parameter>
-  <Parameter name="name"><![CDATA[Heady Topper Locations]]></Parameter>
+  <Parameter name="name"><![CDATA[Heady Topper/Lawsons Locations]]></Parameter>
 </Parameters>
 
+
+<Layer name="lawsons-locations"
+  buffer-size="8"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/willpotter/Projects/headytopper/lawsons.geojson]]></Parameter>
+       <Parameter name="layer"><![CDATA[OGRGeoJSON]]></Parameter>
+       <Parameter name="type"><![CDATA[ogr]]></Parameter>
+    </Datasource>
+  </Layer>
 
 <Layer name="headytopper-locations"
   buffer-size="8"

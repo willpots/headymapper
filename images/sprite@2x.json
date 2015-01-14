@@ -1,5 +1,5 @@
 {
-  "Monday-40": {
+  "HT-Monday-40": {
     "x": 0,
     "y": 0,
     "width": 80,
@@ -7,7 +7,7 @@
     "pixelRatio": 2,
     "sdf": false
   },
-  "Tuesday-40": {
+  "HT-Tuesday-40": {
     "x": 84,
     "y": 0,
     "width": 80,
@@ -15,7 +15,7 @@
     "pixelRatio": 2,
     "sdf": false
   },
-  "Wednesday-40": {
+  "HT-Wednesday-40": {
     "x": 168,
     "y": 0,
     "width": 80,
@@ -23,7 +23,7 @@
     "pixelRatio": 2,
     "sdf": false
   },
-  "Thursday-40": {
+  "HT-Thursday-40": {
     "x": 152,
     "y": 0,
     "width": 80,
@@ -31,7 +31,7 @@
     "pixelRatio": 2,
     "sdf": false
   },
-  "Friday-40": {
+  "HT-Friday-40": {
     "x": 336,
     "y": 0,
     "width": 80,
@@ -39,9 +39,57 @@
     "pixelRatio": 2,
     "sdf": false
   },
-  "Tuesday Thursday-40": {
+  "HT-Tuesday Thursday-40": {
     "x": 420,
     "y": 0,
+    "width": 80,
+    "height": 80,
+    "pixelRatio": 2,
+    "sdf": false
+  },
+  "SS-Monday-40": {
+    "x": 0,
+    "y": 84,
+    "width": 80,
+    "height": 80,
+    "pixelRatio": 2,
+    "sdf": false
+  },
+  "SS-Tuesday-40": {
+    "x": 84,
+    "y": 84,
+    "width": 80,
+    "height": 80,
+    "pixelRatio": 2,
+    "sdf": false
+  },
+  "SS-Wednesday-40": {
+    "x": 168,
+    "y": 84,
+    "width": 80,
+    "height": 80,
+    "pixelRatio": 2,
+    "sdf": false
+  },
+  "SS-Thursday-40": {
+    "x": 152,
+    "y": 84,
+    "width": 80,
+    "height": 80,
+    "pixelRatio": 2,
+    "sdf": false
+  },
+  "SS-Friday-40": {
+    "x": 336,
+    "y": 84,
+    "width": 80,
+    "height": 80,
+    "pixelRatio": 2,
+    "sdf": false
+  },
+  "SS-Tuesday Thursday-40": {
+    "x": 420,
+    "y": 84,
     "width": 80,
     "height": 80,
     "pixelRatio": 2,

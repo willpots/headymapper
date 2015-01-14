@@ -27,10 +27,10 @@
       "stops": [[15, 0], [16, 1]]
     },
     "@aeroway": "#f0ede9",
-    "@motorway": "#fc8",
-    "@motorway_casing": "#e9ac77",
-    "@motorway_tunnel": "#ffdaa6",
-    "@main": "#fea",
+    "@motorway": "#f3f3f3",
+    "@motorway_casing": "#cfcdca",
+    "@motorway_tunnel": "#cfcdca",
+    "@main": "#cfcdca",
     "@main_tunnel": "#fff4c6",
     "@street": "#fff",
     "@street_limited": "#f3f3f3",
@@ -1206,7 +1206,42 @@
     "minzoom": 3,
     "filter": ["all", ["==", "type", "store"]],
     "layout": {
-      "icon-image": "{deliveryDate}-40",
+      "icon-image": "HT-{deliveryDate}-40",
+      "icon-allow-overlap":true,
+      "icon-ignore-placement":true,
+      "text-allow-overlap":true,
+      "text-font": "@sans_md",
+      "text-field": "{name}",
+      "text-max-size": 12,
+      "text-max-width": 9,
+      "text-padding": 2,
+      "text-offset": [0, 0.6],
+      "text-anchor": "top"
+    },
+    "paint": {
+      "icon-size": {
+        "base": 1,
+        "stops": [[7, 0.5], [14, 1]]
+      },
+      "text-color": "@poi_text",
+      "text-size": 12,
+      "text-opacity": {
+          "base": 0,
+          "stops": [[11, 0], [12, 1]]
+      },
+      "text-halo-color": "@poi_text_halo",
+      "text-halo-width": 1,
+      "text-halo-blur": 0.5
+    }
+  }, {
+    "id": "lawsons_locations",
+    "type": "symbol",
+    "source": "locations",
+    "source-layer": "lawsons-locations",
+    "minzoom": 3,
+    "filter": ["all", ["==", "type", "store"]],
+    "layout": {
+      "icon-image": "SS-{deliveryDate}-40",
       "icon-allow-overlap":true,
       "icon-ignore-placement":true,
       "text-allow-overlap":true,
