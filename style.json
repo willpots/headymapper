@@ -1,4 +1,3 @@
-
 {
   "version": 6,
   "constants": {
@@ -132,7 +131,7 @@
     },
     "locations": {
       "type": "vector",
-      "url": "mapbox://willpots.3fdf07e7"
+      "url": "mapbox://willpots.686ea62f"
     }
   },
   "sprite": "images/sprite",
@@ -1202,7 +1201,7 @@
     "id": "heady_topper",
     "type": "symbol",
     "source": "locations",
-    "source-layer": "headytopper-locations",
+    "source-layer": "heady-locations",
     "minzoom": 3,
     "filter": ["all", ["==", "type", "store"]],
     "layout": {
@@ -1239,7 +1238,6 @@
     "source": "locations",
     "source-layer": "lawsons-locations",
     "minzoom": 3,
-    "filter": ["all", ["==", "type", "store"]],
     "layout": {
       "icon-image": "SS-{deliveryDate}-40",
       "icon-allow-overlap":true,
