@@ -1,24 +1,18 @@
 {
   "type": "FeatureCollection",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
       "properties": {
         "name": "Woodstock Hops N' Barley",
-        "deliveryDate": "Monday"
+        "deliveryDate": "Monday",
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -72.504832,
-          43.631371,
-          0
+          43.631371
         ]
       }
     },
@@ -26,14 +20,14 @@
       "type": "Feature",
       "properties": {
         "name": "South Royalton Market",
-        "deliveryDate": "Monday"
+        "deliveryDate": "Monday",
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -72.522109,
-          43.820258,
-          0
+          43.820258
         ]
       }
     },
@@ -41,14 +35,14 @@
       "type": "Feature",
       "properties": {
         "name": "Irasville Country Store",
-        "deliveryDate": ""
+        "deliveryDate": "Tuesday",
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -72.83663,
-          44.184288,
-          0
+          44.184288
         ]
       }
     },
@@ -56,14 +50,14 @@
       "type": "Feature",
       "properties": {
         "name": "Village Grocery",
-        "deliveryDate": ""
+        "deliveryDate": "Tuesday",
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -72.824147,
-          44.190784,
-          0
+          44.190784
         ]
       }
     },
@@ -71,14 +65,14 @@
       "type": "Feature",
       "properties": {
         "name": "Waitsfield Wine Shoppe",
-        "deliveryDate": ""
+        "deliveryDate": "Tuesday",
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -72.823947,
-          44.190793,
-          0
+          44.190793
         ]
       }
     },
@@ -86,14 +80,14 @@
       "type": "Feature",
       "properties": {
         "name": "Mehuron's Supermarket",
-        "deliveryDate": ""
+        "deliveryDate": "Tuesday",
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -72.835343,
-          44.184158,
-          0
+          44.184158
         ]
       }
     },
@@ -101,14 +95,14 @@
       "type": "Feature",
       "properties": {
         "name": "Cork Wine Bar & Market",
-        "deliveryDate": ""
+        "deliveryDate": "Tuesday",
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -72.756129,
-          44.337695,
-          0
+          44.337695
         ]
       }
     },
@@ -116,14 +110,14 @@
       "type": "Feature",
       "properties": {
         "name": "Craft Beer Cellar",
-        "deliveryDate": ""
+        "deliveryDate": "Tuesday",
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -72.756551,
-          44.33728,
-          0
+          44.33728
         ]
       }
     },
@@ -131,14 +125,14 @@
       "type": "Feature",
       "properties": {
         "name": "Crossroad Beverages",
-        "deliveryDate": "Tuesday"
+        "deliveryDate": "Tuesday",
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -72.760218,
-          44.341801,
-          0
+          44.341801
         ]
       }
     },
@@ -146,14 +140,14 @@
       "type": "Feature",
       "properties": {
         "name": "Beer Palate",
-        "deliveryDate": "Wednesday"
+        "deliveryDate": "Wednesday",
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -73.109885,
-          44.446039,
-          0
+          44.446039
         ]
       }
     },
@@ -161,14 +155,14 @@
       "type": "Feature",
       "properties": {
         "name": "Healthy Living Market and Cafe",
-        "deliveryDate": ""
+        "deliveryDate": "Wednesday",
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -73.179824,
-          44.462812,
-          0
+          44.462812
         ]
       }
     },
@@ -176,14 +170,14 @@
       "type": "Feature",
       "properties": {
         "name": "City Market/Onion River Co-op",
-        "deliveryDate": ""
+        "deliveryDate": "Wednesday",
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -73.210559,
-          44.478104,
-          0
+          44.478104
         ]
       }
     },
@@ -191,14 +185,14 @@
       "type": "Feature",
       "properties": {
         "name": "Pearl Street Beverage",
-        "deliveryDate": "Wednesday"
+        "deliveryDate": "Wednesday",
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -73.209098,
-          44.480703,
-          0
+          44.480703
         ]
       }
     },
@@ -206,14 +200,14 @@
       "type": "Feature",
       "properties": {
         "name": "Bridge St",
-        "deliveryDate": "Thursday"
+        "deliveryDate": "Thursday",
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -72.82187950000002,
-          44.1878501,
-          0
+          44.1878501
         ]
       }
     },
@@ -221,14 +215,14 @@
       "type": "Feature",
       "properties": {
         "name": "Warren Store",
-        "deliveryDate": ""
+        "deliveryDate": "Thursday",
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -72.855914,
-          44.114543,
-          0
+          44.114543
         ]
       }
     },
@@ -236,14 +230,14 @@
       "type": "Feature",
       "properties": {
         "name": "East Warren Community Market",
-        "deliveryDate": ""
+        "deliveryDate": "Thursday",
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -72.819168,
-          44.108814,
-          0
+          44.108814
         ]
       }
     },
@@ -251,14 +245,14 @@
       "type": "Feature",
       "properties": {
         "name": "Paradise Deli & Market",
-        "deliveryDate": ""
+        "deliveryDate": "Thursday",
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -72.884556,
-          44.140018,
-          0
+          44.140018
         ]
       }
     },
@@ -266,14 +260,14 @@
       "type": "Feature",
       "properties": {
         "name": "Hunger Mountain Food Coop",
-        "deliveryDate": ""
+        "deliveryDate": "Thursday",
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -72.571637,
-          44.253094,
-          0
+          44.253094
         ]
       }
     },
@@ -281,14 +275,14 @@
       "type": "Feature",
       "properties": {
         "name": "The Uncommon Market",
-        "deliveryDate": ""
+        "deliveryDate": "Thursday",
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -72.575399,
-          44.261461,
-          0
+          44.261461
         ]
       }
     },
@@ -296,14 +290,14 @@
       "type": "Feature",
       "properties": {
         "name": "Yankee Spirits & Wines",
-        "deliveryDate": ""
+        "deliveryDate": "Thursday",
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -72.574838,
-          44.260991,
-          0
+          44.260991
         ]
       }
     },
@@ -311,14 +305,14 @@
       "type": "Feature",
       "properties": {
         "name": "Red Hen Baking",
-        "deliveryDate": ""
+        "deliveryDate": "Thursday",
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -72.682894,
-          44.294335,
-          0
+          44.294335
         ]
       }
     },
@@ -326,14 +320,14 @@
       "type": "Feature",
       "properties": {
         "name": "Natural Provisions Market",
-        "deliveryDate": ""
+        "deliveryDate": "Thursday",
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -73.115068,
-          44.448154,
-          0
+          44.448154
         ]
       }
     },
@@ -341,14 +335,14 @@
       "type": "Feature",
       "properties": {
         "name": "Beverage Warehouse",
-        "deliveryDate": ""
+        "deliveryDate": "Friday",
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -73.181831,
-          44.492283,
-          0
+          44.492283
         ]
       }
     },
@@ -356,14 +350,14 @@
       "type": "Feature",
       "properties": {
         "name": "Richmond Market & Beverage",
-        "deliveryDate": ""
+        "deliveryDate": "Friday",
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -72.994834,
-          44.404398,
-          0
+          44.404398
         ]
       }
     }

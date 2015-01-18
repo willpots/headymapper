@@ -4,13 +4,104 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Woodstock Hops N' Barley",
+        "address": "",
+        "headyDay": "",
+        "lawsonsDay": "monday",
+        "headyCases": false,
+        "lawsonsCases": "",
+        "hoursOpen": "",
+        "type": "store",
+        "heady": false,
+        "lawsons": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.504832,
+          43.631371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Royalton Market",
+        "address": "",
+        "headyDay": "",
+        "lawsonsDay": "monday",
+        "headyCases": false,
+        "lawsonsCases": "",
+        "hoursOpen": "",
+        "type": "store",
+        "heady": false,
+        "lawsons": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.522109,
+          43.820258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paradise Deli & Market",
+        "address": "",
+        "headyDay": "",
+        "lawsonsDay": "thursday",
+        "headyCases": false,
+        "lawsonsCases": "",
+        "hoursOpen": "",
+        "type": "store",
+        "heady": false,
+        "lawsons": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.884556,
+          44.140018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beverage Warehouse",
+        "address": "",
+        "headyDay": "",
+        "lawsonsDay": "friday",
+        "headyCases": false,
+        "lawsonsCases": "",
+        "hoursOpen": "",
+        "type": "store",
+        "heady": false,
+        "lawsons": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.181831,
+          44.492283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "1/2 Lounge",
         "address": "136 1/2 Church St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -25,11 +116,14 @@
       "properties": {
         "name": "10 Railroad St",
         "address": "10 Railroad St, Morrisville, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -44,11 +138,14 @@
       "properties": {
         "name": "2 Loco Guys",
         "address": "163 N Main St, Barre, VT",
-        "deliveryDate": "Monday",
-        "casesAvailable": "False",
+        "headyDay": "monday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -63,11 +160,14 @@
       "properties": {
         "name": "802 Bws",
         "address": "1127 North Ave, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -82,11 +182,14 @@
       "properties": {
         "name": "A Single Pebble",
         "address": "133 Bank St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -101,11 +204,14 @@
       "properties": {
         "name": "Ake's Den",
         "address": "5351 Main St, Waitsfield, VT",
-        "deliveryDate": "Tuesday",
-        "casesAvailable": "False",
+        "headyDay": "tuesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -120,11 +226,14 @@
       "properties": {
         "name": "Ake's Place",
         "address": "134 Church St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -139,11 +248,14 @@
       "properties": {
         "name": "Alpine Mart",
         "address": "968 Mountain Rd, Stowe, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -158,11 +270,14 @@
       "properties": {
         "name": "Arvad's Grill & Pub",
         "address": "3 S Main St, Waterbury, VT",
-        "deliveryDate": "Wednesday",
-        "casesAvailable": "False",
+        "headyDay": "wednesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -177,11 +292,14 @@
       "properties": {
         "name": "Bee's Knees",
         "address": "82 Lower Main St, Morrisville, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -196,11 +314,14 @@
       "properties": {
         "name": "Beer Palate",
         "address": "188 Boxwood St, Williston, VT",
-        "deliveryDate": "Wednesday",
-        "casesAvailable": "False",
+        "headyDay": "wednesday",
+        "lawsonsDay": "wednesday",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
@@ -215,11 +336,14 @@
       "properties": {
         "name": "Bender's Burritos",
         "address": "1880 Mountain Rd, Stowe, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -234,11 +358,14 @@
       "properties": {
         "name": "Bessery's Quality Market",
         "address": "1398 North Ave, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -253,11 +380,14 @@
       "properties": {
         "name": "Best Western",
         "address": "45 Blush Hill Rd, Waterbury, VT",
-        "deliveryDate": "Wednesday",
-        "casesAvailable": "False",
+        "headyDay": "wednesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -272,11 +402,14 @@
       "properties": {
         "name": "Beverage Baron",
         "address": "411 N Main St, Barre, VT",
-        "deliveryDate": "Monday",
-        "casesAvailable": "False",
+        "headyDay": "monday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -291,11 +424,14 @@
       "properties": {
         "name": "Big Picture Theater",
         "address": "48 Carroll Rd, Waitsfield, VT",
-        "deliveryDate": "Tuesday",
-        "casesAvailable": "False",
+        "headyDay": "tuesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -310,11 +446,14 @@
       "properties": {
         "name": "Bistro At Ten Acres",
         "address": "14 Barrows Rd, Stowe, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -329,11 +468,14 @@
       "properties": {
         "name": "Blackback Pub",
         "address": "1 Stowe St, Waterbury, VT",
-        "deliveryDate": "Wednesday",
-        "casesAvailable": "False",
+        "headyDay": "wednesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -348,11 +490,14 @@
       "properties": {
         "name": "Blue Donkey",
         "address": "1669 Mountain Rd, Stowe, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -367,11 +512,14 @@
       "properties": {
         "name": "Blue Moon Cafe",
         "address": "35 School St, Stowe, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -386,11 +534,14 @@
       "properties": {
         "name": "Blue Stone Pizza",
         "address": "15 Stowe St, Waterbury, VT",
-        "deliveryDate": "Wednesday",
-        "casesAvailable": "False",
+        "headyDay": "wednesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -405,11 +556,14 @@
       "properties": {
         "name": "Bluebird Bbq",
         "address": "317 Riverside Ave, Winooski, VT",
-        "deliveryDate": "Wednesday",
-        "casesAvailable": "False",
+        "headyDay": "wednesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -424,11 +578,14 @@
       "properties": {
         "name": "Bluebird Tavern",
         "address": "86 St Paul St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -443,11 +600,14 @@
       "properties": {
         "name": "Breakwater Cafe",
         "address": "1 Kings Lane, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -462,11 +622,14 @@
       "properties": {
         "name": "Bridge St Butcher",
         "address": "40 Bridge St, Waitsfield, VT",
-        "deliveryDate": "Tuesday",
-        "casesAvailable": "False",
+        "headyDay": "tuesday",
+        "lawsonsDay": "thursday",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
@@ -481,11 +644,14 @@
       "properties": {
         "name": "Bueno Y Sano",
         "address": "213 College St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -500,11 +666,14 @@
       "properties": {
         "name": "Buono Appetito",
         "address": "3182 Shelburne Rd, Shelburne, VT",
-        "deliveryDate": "Monday",
-        "casesAvailable": "False",
+        "headyDay": "monday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -519,11 +688,14 @@
       "properties": {
         "name": "Burlington Bay Market",
         "address": "125 Battery St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -538,11 +710,14 @@
       "properties": {
         "name": "Burt's Pub",
         "address": "135 Luce Hill Rd, Stowe, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -557,11 +732,14 @@
       "properties": {
         "name": "Cactus Cafe",
         "address": "2160 Mountain Rd, Stowe, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -576,11 +754,14 @@
       "properties": {
         "name": "Castlerock Pub",
         "address": "102 Forest Dr, Warren, VT",
-        "deliveryDate": "Tuesday",
-        "casesAvailable": "False",
+        "headyDay": "tuesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -595,11 +776,14 @@
       "properties": {
         "name": "Charlie's Rotisserie & Grill",
         "address": "1160 Williston Rd, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -614,11 +798,14 @@
       "properties": {
         "name": "Cheese Trader",
         "address": "1186 Williston Rd, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -633,11 +820,14 @@
       "properties": {
         "name": "Church & Main",
         "address": "156 Church St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -652,11 +842,14 @@
       "properties": {
         "name": "Church St Tavern",
         "address": "103 Church St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -671,11 +864,14 @@
       "properties": {
         "name": "City Market",
         "address": "82 S Winooski Ave, Burlington, VT",
-        "deliveryDate": "Tuesday",
-        "casesAvailable": "False",
+        "headyDay": "tuesday",
+        "lawsonsDay": "wednesday",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
@@ -690,11 +886,14 @@
       "properties": {
         "name": "Cold Hollow Cider Mill",
         "address": "3600 Waterbury-Stowe Rd, Waterbury, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -709,11 +908,14 @@
       "properties": {
         "name": "Cork Wine Bar",
         "address": "1 Stowe St, Waterbury, VT",
-        "deliveryDate": "Wednesday",
-        "casesAvailable": "False",
+        "headyDay": "wednesday",
+        "lawsonsDay": "tuesday",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
@@ -728,11 +930,14 @@
       "properties": {
         "name": "Cornerstone Pub & Kitchen",
         "address": "47 N Main St, Barre, VT",
-        "deliveryDate": "Monday",
-        "casesAvailable": "False",
+        "headyDay": "monday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -747,11 +952,14 @@
       "properties": {
         "name": "Craft Beer Cellar",
         "address": "3 Elm St, Waterbury, VT",
-        "deliveryDate": "Wednesday",
-        "casesAvailable": "False",
+        "headyDay": "wednesday",
+        "lawsonsDay": "tuesday",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
@@ -766,11 +974,14 @@
       "properties": {
         "name": "Crop Bistro & Brewery",
         "address": "1859 Mountain Rd, Stowe, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -783,13 +994,16 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Crossroad Beverage",
+        "name": "Crossroad Beverages",
         "address": "52 N Main St #1, Waterbury, VT",
-        "deliveryDate": "Wednesday",
-        "casesAvailable": "False",
+        "headyDay": "wednesday",
+        "lawsonsDay": "tuesday",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
@@ -804,11 +1018,14 @@
       "properties": {
         "name": "Daily Planet",
         "address": "15 Center St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -823,11 +1040,14 @@
       "properties": {
         "name": "Das Bierhaus",
         "address": "175 Church St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -842,11 +1062,14 @@
       "properties": {
         "name": "Drink",
         "address": "135 Saint Paul St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -861,11 +1084,14 @@
       "properties": {
         "name": "E Warren Community Market",
         "address": "42 Roxbury Mtn Rd, Warren, VT",
-        "deliveryDate": "Tuesday",
-        "casesAvailable": "False",
+        "headyDay": "tuesday",
+        "lawsonsDay": "thursday",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
@@ -880,11 +1106,14 @@
       "properties": {
         "name": "Edelweiss Mountain Deli",
         "address": "2251 Mountain Rd, Stowe, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -899,11 +1128,14 @@
       "properties": {
         "name": "El Cortijo",
         "address": "189 Bank St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -918,11 +1150,14 @@
       "properties": {
         "name": "El Gato",
         "address": "169 Church St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -937,11 +1172,14 @@
       "properties": {
         "name": "Essex Discount Beverage",
         "address": "76 Center Rd, Essex, VT",
-        "deliveryDate": "Wednesday",
-        "casesAvailable": "False",
+        "headyDay": "wednesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -956,11 +1194,14 @@
       "properties": {
         "name": "Fairground Beverage",
         "address": "103 Pearl St (Rte 15), Essex, VT",
-        "deliveryDate": "Wednesday",
-        "casesAvailable": "False",
+        "headyDay": "wednesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -975,11 +1216,14 @@
       "properties": {
         "name": "Finnigan's Pub",
         "address": "205 College St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -994,11 +1238,14 @@
       "properties": {
         "name": "Gracie's Liquor",
         "address": "26 Hinesburg Rd, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1013,11 +1260,14 @@
       "properties": {
         "name": "Gracies",
         "address": "18 Edson Hill Rd, Stowe, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1032,11 +1282,14 @@
       "properties": {
         "name": "Green Mountain Inn",
         "address": "18 Main St, Stowe, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1051,11 +1304,14 @@
       "properties": {
         "name": "Green Top Market",
         "address": "639 Morristown Corners, Morrisville, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1070,11 +1326,14 @@
       "properties": {
         "name": "Guild Tavern",
         "address": "1633 Williston Rd, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1089,11 +1348,14 @@
       "properties": {
         "name": "Gusto's",
         "address": "28 Prospect St, Barre, VT",
-        "deliveryDate": "Monday",
-        "casesAvailable": "False",
+        "headyDay": "monday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1108,11 +1370,14 @@
       "properties": {
         "name": "Halvorson's",
         "address": "16 Church St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1127,11 +1392,14 @@
       "properties": {
         "name": "Harrisons Restaurant",
         "address": "25 Main St, Stowe, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1146,11 +1414,14 @@
       "properties": {
         "name": "Harvest Market",
         "address": "1031 Mountain Rd, Stowe, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1165,11 +1436,14 @@
       "properties": {
         "name": "Healthy Living",
         "address": "222 Dorset St, S Burlington, VT",
-        "deliveryDate": "Monday",
-        "casesAvailable": "False",
+        "headyDay": "monday",
+        "lawsonsDay": "wednesday",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
@@ -1184,11 +1458,14 @@
       "properties": {
         "name": "Hen Of The Wood",
         "address": "92 Stowe St, Waterbury, VT",
-        "deliveryDate": "Wednesday",
-        "casesAvailable": "False",
+        "headyDay": "wednesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1203,11 +1480,14 @@
       "properties": {
         "name": "Hen Of The Wood",
         "address": "55 Cherry St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1222,11 +1502,14 @@
       "properties": {
         "name": "Henry St Deli",
         "address": "11 Henry St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1241,11 +1524,14 @@
       "properties": {
         "name": "Higher Ground",
         "address": "1214 Williston Rd, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1260,11 +1546,14 @@
       "properties": {
         "name": "Hostel Tevere",
         "address": "203 Powderhound Rd, Warren, VT",
-        "deliveryDate": "Tuesday",
-        "casesAvailable": "False",
+        "headyDay": "tuesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1279,11 +1568,14 @@
       "properties": {
         "name": "Hunger Mountain Coop",
         "address": "623 Stone Cutters Way, Montpelier, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "True",
+        "headyDay": "thursday",
+        "lawsonsDay": "thursday",
+        "headyCases": true,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
@@ -1298,11 +1590,14 @@
       "properties": {
         "name": "Hyde Away",
         "address": "1428 Millbrook Rd, Waitsfield, VT",
-        "deliveryDate": "Tuesday",
-        "casesAvailable": "False",
+        "headyDay": "tuesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1317,11 +1612,14 @@
       "properties": {
         "name": "Ice House",
         "address": "171 Battery St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1336,11 +1634,14 @@
       "properties": {
         "name": "Irasville Country Store",
         "address": "5134 Main St, Waitsfield, VT",
-        "deliveryDate": "Tuesday",
-        "casesAvailable": "False",
+        "headyDay": "tuesday",
+        "lawsonsDay": "tuesday",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
@@ -1355,11 +1656,14 @@
       "properties": {
         "name": "Jericho Country Store",
         "address": "25 Jercho Center Circle, Jericho, VT",
-        "deliveryDate": "Tuesday",
-        "casesAvailable": "False",
+        "headyDay": "tuesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1374,11 +1678,14 @@
       "properties": {
         "name": "Jp's Pub",
         "address": "139 Main St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1393,11 +1700,14 @@
       "properties": {
         "name": "Juniper Bar",
         "address": "41 Cherry St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1412,11 +1722,14 @@
       "properties": {
         "name": "Ken's Pizza",
         "address": "71 Church St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1431,11 +1744,14 @@
       "properties": {
         "name": "Kismet",
         "address": "52 State St, Montpelier, VT",
-        "deliveryDate": "Monday",
-        "casesAvailable": "False",
+        "headyDay": "monday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1450,11 +1766,14 @@
       "properties": {
         "name": "Leunigs Bistro",
         "address": "115 Church St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1469,11 +1788,14 @@
       "properties": {
         "name": "Logans",
         "address": "30 Main St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1488,11 +1810,14 @@
       "properties": {
         "name": "Mad River Barn",
         "address": "2849 Millbrook Rd, Waitsfield, VT",
-        "deliveryDate": "Tuesday",
-        "casesAvailable": "False",
+        "headyDay": "tuesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1507,11 +1832,14 @@
       "properties": {
         "name": "Mad Taco (Montpelier)",
         "address": "72 Main St, Montpelier, VT",
-        "deliveryDate": "Monday",
-        "casesAvailable": "False",
+        "headyDay": "monday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1526,11 +1854,14 @@
       "properties": {
         "name": "Mad Taco (Waitsfield)",
         "address": "5101 Main St, Waitsfield, VT",
-        "deliveryDate": "Tuesday",
-        "casesAvailable": "False",
+        "headyDay": "tuesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1545,11 +1876,14 @@
       "properties": {
         "name": "Made Inn Vermont",
         "address": "204 S Willard St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1564,11 +1898,14 @@
       "properties": {
         "name": "Manhattan Pizza",
         "address": "167 Main St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1583,11 +1920,14 @@
       "properties": {
         "name": "Maplewood Convenience Store",
         "address": "370 S Barre Rd, South Barre, VT",
-        "deliveryDate": "Monday",
-        "casesAvailable": "False",
+        "headyDay": "monday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1602,11 +1942,14 @@
       "properties": {
         "name": "Marriot Courtyard",
         "address": "25 Cherry St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1621,11 +1964,14 @@
       "properties": {
         "name": "Maxi's",
         "address": "47 N Main St, Waterbury, VT",
-        "deliveryDate": "Wednesday",
-        "casesAvailable": "False",
+        "headyDay": "wednesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1640,11 +1986,14 @@
       "properties": {
         "name": "Mcgillicuddy's (Montpelier)",
         "address": "14 Langdon St, Montpelier, VT",
-        "deliveryDate": "Monday",
-        "casesAvailable": "False",
+        "headyDay": "monday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1659,11 +2008,14 @@
       "properties": {
         "name": "Mcgillicuddy's (Williston)",
         "address": "28 Walnut St, Williston, VT",
-        "deliveryDate": "Wednesday",
-        "casesAvailable": "False",
+        "headyDay": "wednesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1678,11 +2030,14 @@
       "properties": {
         "name": "Mckee Pub And Grill",
         "address": "19 E Allen St, Winooski, VT",
-        "deliveryDate": "Wednesday",
-        "casesAvailable": "False",
+        "headyDay": "wednesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1697,16 +2052,19 @@
       "properties": {
         "name": "Mehurons Market",
         "address": "5121 Main St #6, Waitsfield, VT",
-        "deliveryDate": "Tuesday",
-        "casesAvailable": "False",
+        "headyDay": "tuesday",
+        "lawsonsDay": "tuesday",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.83534299999997,
+          -72.835343,
           44.184158
         ]
       }
@@ -1716,11 +2074,14 @@
       "properties": {
         "name": "Mexicali Grill & Cantina",
         "address": "28 Walnut St, Williston, VT",
-        "deliveryDate": "Wednesday",
-        "casesAvailable": "False",
+        "headyDay": "wednesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1735,11 +2096,14 @@
       "properties": {
         "name": "Mi Casa",
         "address": "128 Main St, Stowe, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1754,11 +2118,14 @@
       "properties": {
         "name": "Michael's On The Hill",
         "address": "4182 Waterbury-Stowe Rd, Waterbury, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1773,11 +2140,14 @@
       "properties": {
         "name": "Mill Market & Deli",
         "address": "1580 Dorset St, S Burlington, VT",
-        "deliveryDate": "Monday",
-        "casesAvailable": "False",
+        "headyDay": "monday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1792,11 +2162,14 @@
       "properties": {
         "name": "Mint Restaurant & Tea Lounge",
         "address": "4403 Main St, Waitsfield, VT",
-        "deliveryDate": "Tuesday",
-        "casesAvailable": "False",
+        "headyDay": "tuesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1811,11 +2184,14 @@
       "properties": {
         "name": "Misery Loves Company",
         "address": "46 Main St, Winooski, VT",
-        "deliveryDate": "Wednesday",
-        "casesAvailable": "False",
+        "headyDay": "wednesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1830,11 +2206,14 @@
       "properties": {
         "name": "Mister Z's",
         "address": "279 N Main St, Barre, VT",
-        "deliveryDate": "Monday",
-        "casesAvailable": "False",
+        "headyDay": "monday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1849,11 +2228,14 @@
       "properties": {
         "name": "Monkey House",
         "address": "30 Main St, Winooski, VT",
-        "deliveryDate": "Wednesday",
-        "casesAvailable": "False",
+        "headyDay": "wednesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1868,11 +2250,14 @@
       "properties": {
         "name": "Montpelier Discount Beverage",
         "address": "12 Main St, Montpelier, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1887,11 +2272,14 @@
       "properties": {
         "name": "Montpelier Mobil",
         "address": "3 Berlin St, Montpelier, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1906,16 +2294,19 @@
       "properties": {
         "name": "Montpelier Village Pizza",
         "address": "89 Main St #5, Montpelier, VT",
-        "deliveryDate": "Monday",
-        "casesAvailable": "False",
+        "headyDay": "monday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.57471800000002,
+          -72.574718,
           44.260181
         ]
       }
@@ -1925,11 +2316,14 @@
       "properties": {
         "name": "Monty's Tavern",
         "address": "7921 Williston Rd, Williston, VT",
-        "deliveryDate": "Wednesday",
-        "casesAvailable": "False",
+        "headyDay": "wednesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1944,11 +2338,14 @@
       "properties": {
         "name": "Mountain Cheese & Wine",
         "address": "1799 Mountain Rd, Stowe, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1963,11 +2360,14 @@
       "properties": {
         "name": "Mr Mike's Pizza",
         "address": "206 Main St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -1982,11 +2382,14 @@
       "properties": {
         "name": "Mule Bar",
         "address": "38 Main St, Winooski, VT",
-        "deliveryDate": "Wednesday",
-        "casesAvailable": "False",
+        "headyDay": "wednesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2001,11 +2404,14 @@
       "properties": {
         "name": "Mutha Stuffers",
         "address": "Sugarbush Village, Warren, VT",
-        "deliveryDate": "Tuesday",
-        "casesAvailable": "False",
+        "headyDay": "tuesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2020,11 +2426,14 @@
       "properties": {
         "name": "My Little Cupcake",
         "address": "217 College St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2039,11 +2448,14 @@
       "properties": {
         "name": "Natural Provisions",
         "address": "329 Harvest Lane, Williston, VT",
-        "deliveryDate": "Wednesday",
-        "casesAvailable": "False",
+        "headyDay": "wednesday",
+        "lawsonsDay": "thursday",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
@@ -2058,11 +2470,14 @@
       "properties": {
         "name": "Nectar's",
         "address": "188 Main St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2077,11 +2492,14 @@
       "properties": {
         "name": "Nutty Steph's",
         "address": "961 Us Rte 2, Middlesex, VT",
-        "deliveryDate": "Tuesday",
-        "casesAvailable": "False",
+        "headyDay": "tuesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2096,11 +2514,14 @@
       "properties": {
         "name": "O'Grady's",
         "address": "504 Mountain Rd, Stowe, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2115,11 +2536,14 @@
       "properties": {
         "name": "Park Place Tavern",
         "address": "38 Park St, Essex, VT",
-        "deliveryDate": "Wednesday",
-        "casesAvailable": "False",
+        "headyDay": "wednesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2134,11 +2558,14 @@
       "properties": {
         "name": "Pascolo",
         "address": "83 Church St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2153,11 +2580,14 @@
       "properties": {
         "name": "Pearl St Beverage",
         "address": "240 Pearl St, Burlington, VT",
-        "deliveryDate": "Tuesday",
-        "casesAvailable": "False",
+        "headyDay": "tuesday",
+        "lawsonsDay": "wednesday",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
@@ -2172,11 +2602,14 @@
       "properties": {
         "name": "Penny Cluse Cafe",
         "address": "169 Cherry St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2191,11 +2624,14 @@
       "properties": {
         "name": "Phoenix",
         "address": "1652 Mountain Rd, Stowe, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2210,11 +2646,14 @@
       "properties": {
         "name": "Pickwick's",
         "address": "433 Mountain Rd, Stowe, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2229,11 +2668,14 @@
       "properties": {
         "name": "Piecasso (Stowe)",
         "address": "1899 Mountain Rd, Stowe, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2248,11 +2690,14 @@
       "properties": {
         "name": "Pine St Deli",
         "address": "316 Flynn Ave, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2267,11 +2712,14 @@
       "properties": {
         "name": "Pine Tree Pub",
         "address": "7508 Sugarbush Village, Warren, VT",
-        "deliveryDate": "Tuesday",
-        "casesAvailable": "False",
+        "headyDay": "tuesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2286,11 +2734,14 @@
       "properties": {
         "name": "Pizza Barrio",
         "address": "197 N Winooski Ave, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2305,11 +2756,14 @@
       "properties": {
         "name": "Pizzeria Verita",
         "address": "156 St Paul St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2324,11 +2778,14 @@
       "properties": {
         "name": "Plate",
         "address": "91 Main St, Stowe, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2343,11 +2800,14 @@
       "properties": {
         "name": "Positive Pie (Montpelier)",
         "address": "22 State St, Montpelier, VT",
-        "deliveryDate": "Monday",
-        "casesAvailable": "False",
+        "headyDay": "monday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2362,11 +2822,14 @@
       "properties": {
         "name": "Quarry Grill And Bar",
         "address": "210 N Main St, Barre, VT",
-        "deliveryDate": "Monday",
-        "casesAvailable": "False",
+        "headyDay": "monday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2381,11 +2844,14 @@
       "properties": {
         "name": "Radio Bean",
         "address": "8 N Winooski Ave, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2400,11 +2866,14 @@
       "properties": {
         "name": "Red Hen Bakery",
         "address": "961 Us Rte 2, Middlesex, VT",
-        "deliveryDate": "Monday",
-        "casesAvailable": "False",
+        "headyDay": "monday",
+        "lawsonsDay": "thursday",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
@@ -2419,11 +2888,14 @@
       "properties": {
         "name": "Revolution Kitchen",
         "address": "9 Center St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2438,11 +2910,14 @@
       "properties": {
         "name": "Ri Ra's Irish Pub",
         "address": "123 Church St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2457,11 +2932,14 @@
       "properties": {
         "name": "Richmond Beverage",
         "address": "56 Railroad St, Richmond, VT",
-        "deliveryDate": "Tuesday",
-        "casesAvailable": "False",
+        "headyDay": "tuesday",
+        "lawsonsDay": "friday",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
@@ -2476,11 +2954,14 @@
       "properties": {
         "name": "Richmond Mobil Mart",
         "address": "1436 W Main St, Richmond, VT",
-        "deliveryDate": "Tuesday",
-        "casesAvailable": "False",
+        "headyDay": "tuesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2495,11 +2976,14 @@
       "properties": {
         "name": "Rimrocks Mountain Tavern",
         "address": "394 Mountain Rd, Stowe, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2514,11 +2998,14 @@
       "properties": {
         "name": "River House At Stowe Inn",
         "address": "123 Mountain Rd, Stowe, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2533,11 +3020,14 @@
       "properties": {
         "name": "Rotisserie Restaurant",
         "address": "1355 Williston Rd, Williston, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2552,11 +3042,14 @@
       "properties": {
         "name": "Route 7 Liquor",
         "address": "2659 Shelburne Rd, Shelburne, VT",
-        "deliveryDate": "Monday",
-        "casesAvailable": "True",
+        "headyDay": "monday",
+        "lawsonsDay": "",
+        "headyCases": true,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2571,11 +3064,14 @@
       "properties": {
         "name": "Ruben James",
         "address": "159 Main St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2590,11 +3086,14 @@
       "properties": {
         "name": "Sammy's Quick Stop",
         "address": "264 Malletts Bay Ave, Winooski, VT",
-        "deliveryDate": "Wednesday",
-        "casesAvailable": "False",
+        "headyDay": "wednesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2609,11 +3108,14 @@
       "properties": {
         "name": "Sarducci's",
         "address": "3 Main St, Montpelier, VT",
-        "deliveryDate": "Monday",
-        "casesAvailable": "False",
+        "headyDay": "monday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2628,11 +3130,14 @@
       "properties": {
         "name": "Shelburne Meat Market",
         "address": "2989 Shelburne Rd, Shelburne, VT",
-        "deliveryDate": "Monday",
-        "casesAvailable": "False",
+        "headyDay": "monday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2647,11 +3152,14 @@
       "properties": {
         "name": "Shelburne Meat Market",
         "address": "40 Tafts Corner, Williston, VT",
-        "deliveryDate": "Wednesday",
-        "casesAvailable": "False",
+        "headyDay": "wednesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2666,11 +3174,14 @@
       "properties": {
         "name": "Shelburne Rd Variety",
         "address": "1855 Shelburne Rd, Shelburne, VT",
-        "deliveryDate": "Monday",
-        "casesAvailable": "False",
+        "headyDay": "monday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2685,11 +3196,14 @@
       "properties": {
         "name": "Sherpa Kitchen",
         "address": "119 College St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2704,11 +3218,14 @@
       "properties": {
         "name": "Simons Shelburne Rd",
         "address": "974 Shelburne Rd, Shelburne, VT",
-        "deliveryDate": "Monday",
-        "casesAvailable": "False",
+        "headyDay": "monday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2723,11 +3240,14 @@
       "properties": {
         "name": "Skinny Pancake (Airport)",
         "address": "Burlington International Airport, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2742,11 +3262,14 @@
       "properties": {
         "name": "Skinny Pancake (Burlington)",
         "address": "60 Lake St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2761,11 +3284,14 @@
       "properties": {
         "name": "Skinny Pancake (Montpelier)",
         "address": "89 Main St, Montpelier, VT",
-        "deliveryDate": "Monday",
-        "casesAvailable": "False",
+        "headyDay": "monday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2780,11 +3306,14 @@
       "properties": {
         "name": "Stagecoach Inn",
         "address": "18 N Main St, Waterbury, VT",
-        "deliveryDate": "Wednesday",
-        "casesAvailable": "False",
+        "headyDay": "wednesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2799,11 +3328,14 @@
       "properties": {
         "name": "Stowe Beverage",
         "address": "1880 Mountain Rd, Stowe, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2818,11 +3350,14 @@
       "properties": {
         "name": "Stowe Cinema",
         "address": "454 Mountain Rd, Stowe, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2837,11 +3372,14 @@
       "properties": {
         "name": "Stowe Quick Mart",
         "address": "745 Main St, Stowe, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2856,11 +3394,14 @@
       "properties": {
         "name": "Stowe Seafood",
         "address": "504 Mountain Rd, Stowe, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2875,11 +3416,14 @@
       "properties": {
         "name": "Stoweflake",
         "address": "1746 Mountain Rd, Stowe, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2894,11 +3438,14 @@
       "properties": {
         "name": "Stowehof",
         "address": "434 Edson Hill, Stowe, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2913,11 +3460,14 @@
       "properties": {
         "name": "Sunflower Natural Foods",
         "address": "2934 Waterbury-Stowe Rd, Waterbury, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2932,11 +3482,14 @@
       "properties": {
         "name": "Sunset Grill",
         "address": "140 Cottage Club Rd, Stowe, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2951,11 +3504,14 @@
       "properties": {
         "name": "Sushi Yoshi",
         "address": "1128 Mountain Rd, Stowe, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2970,11 +3526,14 @@
       "properties": {
         "name": "Sweet Clover Market",
         "address": "21 Essex Way, Essex, VT",
-        "deliveryDate": "Wednesday",
-        "casesAvailable": "False",
+        "headyDay": "wednesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -2989,11 +3548,14 @@
       "properties": {
         "name": "Sweetwaters",
         "address": "120 Church St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -3008,11 +3570,14 @@
       "properties": {
         "name": "Tanglewoods Restaurant",
         "address": "179 Guptil Rd, Waterbury, VT",
-        "deliveryDate": "Wednesday",
-        "casesAvailable": "False",
+        "headyDay": "wednesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -3027,11 +3592,14 @@
       "properties": {
         "name": "The Elusive Moose",
         "address": "6163 Main St, Waitsfield, VT",
-        "deliveryDate": "Tuesday",
-        "casesAvailable": "False",
+        "headyDay": "tuesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -3046,11 +3614,14 @@
       "properties": {
         "name": "The Essex",
         "address": "70 Essex Way, Essex, VT",
-        "deliveryDate": "Wednesday",
-        "casesAvailable": "False",
+        "headyDay": "wednesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -3065,11 +3636,14 @@
       "properties": {
         "name": "The Farmhouse Tap And Grill",
         "address": "160 Bank St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -3084,11 +3658,14 @@
       "properties": {
         "name": "The Inn At The Round Barn",
         "address": "1661 E Warren Rd, Warren, VT",
-        "deliveryDate": "Tuesday",
-        "casesAvailable": "False",
+        "headyDay": "tuesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -3103,11 +3680,14 @@
       "properties": {
         "name": "The Mounted Cat",
         "address": "60 Battery St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -3122,11 +3702,14 @@
       "properties": {
         "name": "The Other Place",
         "address": "4 N Winooski Ave, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -3141,11 +3724,14 @@
       "properties": {
         "name": "The Pizza Joint",
         "address": "383 Moscow Rd, Stowe, Vt, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -3160,11 +3746,14 @@
       "properties": {
         "name": "The Prohibition Pig",
         "address": "23 S Main St, Waterbury, VT",
-        "deliveryDate": "Wednesday",
-        "casesAvailable": "False",
+        "headyDay": "wednesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -3179,11 +3768,14 @@
       "properties": {
         "name": "The Reservoir",
         "address": "1 S Main St, Waterbury, VT",
-        "deliveryDate": "Wednesday",
-        "casesAvailable": "False",
+        "headyDay": "wednesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -3198,11 +3790,14 @@
       "properties": {
         "name": "The Scuffer",
         "address": "148 Church St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -3217,11 +3812,14 @@
       "properties": {
         "name": "The Shopping Bag",
         "address": "166 North St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -3236,11 +3834,14 @@
       "properties": {
         "name": "The Vt Tap House",
         "address": "70 Marshall Ave, Williston, VT",
-        "deliveryDate": "Wednesday",
-        "casesAvailable": "False",
+        "headyDay": "wednesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -3255,11 +3856,14 @@
       "properties": {
         "name": "Three Penny Taproom",
         "address": "108 Main St, Montpelier, VT",
-        "deliveryDate": "Monday",
-        "casesAvailable": "False",
+        "headyDay": "monday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -3274,11 +3878,14 @@
       "properties": {
         "name": "Tomlinson's",
         "address": "81 Bridge St, Morrisville, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -3293,11 +3900,14 @@
       "properties": {
         "name": "Topnotch Resort",
         "address": "4000 Mountain Rd, Stowe, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -3312,11 +3922,14 @@
       "properties": {
         "name": "Trattoria Delia",
         "address": "152 St Paul St, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -3331,11 +3944,14 @@
       "properties": {
         "name": "Uncommon Market",
         "address": "1 School St, Montpelier, VT",
-        "deliveryDate": "Monday",
-        "casesAvailable": "False",
+        "headyDay": "monday",
+        "lawsonsDay": "thursday",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
@@ -3350,11 +3966,14 @@
       "properties": {
         "name": "Usave Beverage And Deli",
         "address": "1332 Williston Rd, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -3369,11 +3988,14 @@
       "properties": {
         "name": "Village Mobil",
         "address": "8252 Shelburne Rd, Shelburne, VT",
-        "deliveryDate": "Monday",
-        "casesAvailable": "False",
+        "headyDay": "monday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -3388,11 +4010,14 @@
       "properties": {
         "name": "Vt Ale House",
         "address": "294 Mountain Rd, Stowe, VT",
-        "deliveryDate": "Friday",
-        "casesAvailable": "False",
+        "headyDay": "friday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -3407,11 +4032,14 @@
       "properties": {
         "name": "Vt Meat & Seafood",
         "address": "104 Cornerstone Dr, Williston, VT",
-        "deliveryDate": "Wednesday",
-        "casesAvailable": "False",
+        "headyDay": "wednesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -3426,11 +4054,14 @@
       "properties": {
         "name": "Waitsfield Village Grocery",
         "address": "4348 Main St, Waitsfield, VT",
-        "deliveryDate": "Tuesday",
-        "casesAvailable": "True",
+        "headyDay": "tuesday",
+        "lawsonsDay": "tuesday",
+        "headyCases": true,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
@@ -3445,11 +4076,14 @@
       "properties": {
         "name": "Waitsfield Wine Shop",
         "address": "4330 Main St, Waitsfield, VT",
-        "deliveryDate": "Tuesday",
-        "casesAvailable": "False",
+        "headyDay": "tuesday",
+        "lawsonsDay": "tuesday",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
@@ -3464,11 +4098,14 @@
       "properties": {
         "name": "Warren Store",
         "address": "284 Main St, Warren, VT",
-        "deliveryDate": "Tuesday",
-        "casesAvailable": "False",
+        "headyDay": "tuesday",
+        "lawsonsDay": "thursday",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",
@@ -3483,11 +4120,14 @@
       "properties": {
         "name": "Waterbury Village Market",
         "address": "80 S Main St, Waterbury, VT",
-        "deliveryDate": "Wednesday",
-        "casesAvailable": "False",
+        "headyDay": "wednesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -3502,11 +4142,14 @@
       "properties": {
         "name": "White Horse Inn",
         "address": "99 German Flats Rd, Waitsfield, VT",
-        "deliveryDate": "Tuesday",
-        "casesAvailable": "False",
+        "headyDay": "tuesday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -3521,11 +4164,14 @@
       "properties": {
         "name": "Windjammer",
         "address": "1076 Williston Rd, Burlington, VT",
-        "deliveryDate": "Thursday",
-        "casesAvailable": "False",
+        "headyDay": "thursday",
+        "lawsonsDay": "",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "eatery",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -3540,11 +4186,14 @@
       "properties": {
         "name": "Winooski Beverage",
         "address": "1 East St, Winooski, VT",
-        "deliveryDate": "Tuesday Thursday",
-        "casesAvailable": "True",
+        "headyDay": "tuesday thursday",
+        "lawsonsDay": "",
+        "headyCases": true,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": false
       },
       "geometry": {
         "type": "Point",
@@ -3559,11 +4208,14 @@
       "properties": {
         "name": "Yankee Wine & Spirits",
         "address": "126 Main St, Montpelier, VT",
-        "deliveryDate": "Monday",
-        "casesAvailable": "False",
+        "headyDay": "monday",
+        "lawsonsDay": "thursday",
+        "headyCases": false,
+        "lawsonsCases": "",
         "hoursOpen": "",
         "type": "store",
-        "heady": true
+        "heady": true,
+        "lawsons": true
       },
       "geometry": {
         "type": "Point",

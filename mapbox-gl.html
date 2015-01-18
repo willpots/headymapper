@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8' />
+    <meta charset="utf-8">
+    <meta name="description" content="Find Heady Topper and Lawsons Stores throughout Vermont">
+
+    <title>HeadyMapper</title>
+    
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.5.2/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.5.2/mapbox-gl.css' rel='stylesheet' />
+    <style>
+        body { margin:0; padding:0; font-family: "Roboto", "Helvetica Neue", sans-serif;}
+        #map { position:absolute; top:0; bottom:0; width:100%; }
+        #legend { 
+          position:absolute;
+          top:0;
+          left:0;
+          width:200px;
+          height:100%;
+          background:rgba(255,255,255,0.9);
+          box-shadow: 0px 0px 4px rgba(0,0,0,0.2);
+          text-align: center;
+        }
+        #legend table {
+          margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+
+<div id='map'></div>
+<div id="legend">
+  <h2>Heady Topper</h2>
+  <table>
+    <tr>
+      <td>Monday</td>
+      <td><img height="40" src="images/ht_mon.png"></td>
+    </tr>
+    <tr>
+      <td>Tuesday</td>
+      <td><img height="40" src="images/ht_tues.png"></td>
+    </tr>
+    <tr>
+      <td>Wednesday</td>
+      <td><img height="40" src="images/ht_wed.png"></td>
+    </tr>
+    <tr>
+      <td>Thursday</td>
+      <td><img height="40" src="images/ht_thurs.png"></td>
+    </tr>
+    <tr>
+      <td>Friday</td>
+      <td><img height="40" src="images/ht_fri.png"></td>
+    </tr>
+  </table>
+  <h2>Sip of Sunshine</h2>
+  <table>
+    <tr>
+      <td>Monday</td>
+      <td><img height="40" src="images/law_mon.png"></td>
+    </tr>
+    <tr>
+      <td>Tuesday</td>
+      <td><img height="40" src="images/law_tues.png"></td>
+    </tr>
+    <tr>
+      <td>Wednesday</td>
+      <td><img height="40" src="images/law_wed.png"></td>
+    </tr>
+    <tr>
+      <td>Thursday</td>
+      <td><img height="40" src="images/law_thurs.png"></td>
+    </tr>
+    <tr>
+      <td>Friday</td>
+      <td><img height="40" src="images/law_fri.png"></td>
+    </tr>
+  </table>
+</div>
+
+<script>
+mapboxgl.accessToken = 'pk.eyJ1Ijoid2lsbHBvdHMiLCJhIjoiSTJYS0RCNCJ9.jPqwSxzqRHyjLAUoFS3vgQ';
+var map = new mapboxgl.Map({
+  container: 'map', // container id
+  style: 'style.json', //stylesheet location
+  center: [44.32806169328833, -72.3232118610924], // starting position
+  zoom: 7.626174819748469 // starting zoom
+});
+map.addControl(new mapboxgl.Navigation());
+
+</script>
+
+</body>
+</html>
