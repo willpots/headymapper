@@ -2,7 +2,27 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>HeadyMapper</title>
+  <title>Heady Mapper</title>
+
+  <meta name="description" content="Find Heady Topper and Lawson's Sip of Sunshine beer deliveries across Vermont.">
+  <meta name="keywords" content="Heady Topper,Sip of Sunshine,The Alchemist, Lawson's Finest Liquids,Lawsons,Sean Lawson,Beer,Vermont,Craft Beer">
+  <meta name="author" content="Will Potter">
+  <link rel="author" href="https://plus.google.com/110188386142597562938"/>
+
+  <meta property="og:title" content="Heady Mapper"/>
+  <meta property="og:type" content="article"/>
+  <meta property="og:image" content=""/>
+  <meta property="og:url" content="http://headymapper.com"/>
+  <meta property="og:description" content="Find Heady Topper and Lawson's Sip of Sunshine beer deliveries across Vermont."/>
+  <meta property="fb:admins" content="USER_ID"/>
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:url" content="http://headymapper.com">
+  <meta name="twitter:title" content="Heady Mapper">
+  <meta name="twitter:description" content="">
+  <meta name="twitter:image" content="">
+
+
   <link href='https://api.tiles.mapbox.com/mapbox.js/v2.1.4/mapbox.css' rel='stylesheet' />
   <style>
   body { margin:0; padding:0; font-family: "Roboto", "Helvetica Neue", sans-serif;}
@@ -28,6 +48,29 @@
   </style>
 </head>
 <body>
+  <script>
+    window.fbAsyncInit = function() {
+      FB.init({
+        appId      : '1597317263822684',
+        xfbml      : true,
+        version    : 'v2.2'
+      });
+    };
+
+    (function(d, s, id){
+       var js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) {return;}
+       js = d.createElement(s); js.id = id;
+       js.src = "//connect.facebook.net/en_US/sdk.js";
+       fjs.parentNode.insertBefore(js, fjs);
+     }(document, 'script', 'facebook-jssdk'));
+  </script>
+  <div
+    class="fb-like"
+    data-share="true"
+    data-width="450"
+    data-show-faces="true">
+  </div>
   <div id='map'></div>
   <div id="legend">
     <h2>Heady Topper</h2>
