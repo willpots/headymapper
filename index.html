@@ -29,7 +29,7 @@
 <body>
   <div id="map"></div>
   <div id="container">
-    <p class="loading">Loading Location and Beers</p>
+    <p class="loading">Fetching Information</p>
   </div>
   <script src="dist/js/main.js"></script>
 
@@ -39,7 +39,12 @@
     <h1>Nearest Heady Topper Today</h1>
     <p class="ht-nearest">&nbsp;{{htNearest}}</p>
     <p class="warning">Information comes from the Alchemist Website and is not guaranteed to be accurate. Always call ahead to ensure availability</p>
-    <p><a href="simplemap.html" class="link">View Map</a><p>
+    <p>
+      <a href="simplemap.html" class="link">View Complete Map</a>
+      <a href="https://www.google.com/maps/@{{lat}},{{lng}},12z" class="link">Open in Google Maps</a>
+      <a href="http://maps.apple.com/?ll={{lat}},{{lng}}" class="link">Open in Apple Maps</a>
+    <p>
+
   </script>
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

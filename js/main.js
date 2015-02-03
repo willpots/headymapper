@@ -90,7 +90,9 @@ var Receiver = Backbone.Model.extend({
   },
   data: function() {
     return {
-      htNearest: this.get('nearest').properties.name + ", " + this.get('nearest').properties.address
+      htNearest: this.get('nearest').properties.name + ", " + this.get('nearest').properties.address,
+      lat: this.get('nearest').geometry.coordinates[1],
+      lng: this.get('nearest').geometry.coordinates[0]
     };
   }
 });
