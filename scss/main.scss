@@ -1,0 +1,50 @@
+html {
+  body {
+    margin:0;
+    padding:0;
+    font-family: "Helvetica Neue", sans-serif;
+    text-align: center;
+    font-weight: 600;
+
+    p {
+      font-size: 30px;
+      font-weight: 300;   
+      margin: 0;
+      padding: 0; 
+      &.town, &.ht-nearest {
+        font-weight: 500;
+      }
+      &.ht-nearest {
+        font-size: 20px;
+      }
+    }
+    #container {
+      position:absolute;
+      height:100%;
+      width:100%;
+      z-index: 3000;
+      background:rgba(255,255,255,0.5);
+      p {
+        margin: 30px 10px;
+      }
+      .loading {
+
+      }
+      .warning {
+        font-size: 14px;
+      }
+      .link {
+        font-size: 17px;
+        text-decoration: underline;
+      }
+    }
+    #map {
+      position:absolute;
+      height:100%;
+      width:100%;
+    }
+  }
+}
+
+
+

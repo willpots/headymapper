@@ -1,0 +1,44 @@
+_prefs: 
+  disabled: []
+  inspector: false
+  mapid: willpots.3fdf07e7
+  rev: s-e16f9b80
+  saveCenter: true
+attribution: Will Potter & Alchemist Brewing
+center: 
+  - -73.0103
+  - 44.3796
+  - 11
+description: Heady Topper Locations and Lawsons Locations across Vermont.
+Layer: 
+  - id: lawsons-locations
+    Datasource: 
+      file: /Users/willpotter/Projects/headytopper/lawsons.geojson
+      layer: OGRGeoJSON
+      type: ogr
+    description: Lawsons Locations
+    fields: 
+      deliveryDate: String
+      name: String
+    properties: 
+      "buffer-size": 8
+    srs: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+  - id: headytopper-locations
+    Datasource: 
+      file: /Users/willpotter/Projects/headytopper/locations.geojson
+      layer: OGRGeoJSON
+      type: ogr
+    description: Heady Topper Locations
+    fields: 
+      address: String
+      casesAvailable: String
+      deliveryDate: String
+      hoursOpen: String
+      name: String
+      type: String
+    properties: 
+      "buffer-size": 8
+    srs: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+maxzoom: 16
+minzoom: 0
+name: Heady Topper/Lawsons Locations

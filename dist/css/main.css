@@ -1,0 +1,32 @@
+html body {
+  margin: 0;
+  padding: 0;
+  font-family: "Helvetica Neue", sans-serif;
+  text-align: center;
+  font-weight: 600; }
+  html body p {
+    font-size: 30px;
+    font-weight: 300;
+    margin: 0;
+    padding: 0; }
+    html body p.town, html body p.ht-nearest {
+      font-weight: 500; }
+    html body p.ht-nearest {
+      font-size: 20px; }
+  html body #container {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    z-index: 3000;
+    background: rgba(255, 255, 255, 0.5); }
+    html body #container p {
+      margin: 30px 10px; }
+    html body #container .warning {
+      font-size: 14px; }
+    html body #container .link {
+      font-size: 17px;
+      text-decoration: underline; }
+  html body #map {
+    position: absolute;
+    height: 100%;
+    width: 100%; }
