@@ -1,15 +1,16 @@
 var gulp = require('gulp');
 var sass = require('gulp-sass');
 var browserify = require('gulp-browserify');
+var uglify = require('gulp-uglify');
 
 gulp.task('default', ['sass', 'js'], function() {});
 
 gulp.task('js', function() {
   gulp.src('js/main.js')
     .pipe(browserify({
-      insertGlobals: true,
-      debug: true
+      debug: false
     }))
+    .pipe(uglify())
     .pipe(gulp.dest('./dist/js'));
 });
 

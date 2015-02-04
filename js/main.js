@@ -1,9 +1,10 @@
 var $ = require('jquery');
 var _ = require('underscore');
 var Backbone = require('backbone');
-var turf = require('turf');
+var nearest = require('turf-nearest');
+var point = require('turf-point');
 var hogan = require('hogan.js');
-require('mapbox.js');
+var mapbox = require('mapbox.js');
 
 Backbone.$ = $;
 
@@ -32,7 +33,7 @@ var Receiver = Backbone.Model.extend({
     }
   },
   onComplete: function() {
-    this.set("nearest", turf.nearest(this.get("currentLocation"), this.get("htLocations")));
+    this.set("nearest", nearest(this.get("currentLocation"), this.get("htLocations")));
     console.log(this.get("nearest"));
     this.trigger('complete');
     console.log(this.attributes);
@@ -83,7 +84,7 @@ var Receiver = Backbone.Model.extend({
     var self = this;
     if ("geolocation" in navigator) {
       navigator.geolocation.getCurrentPosition(function(position) {
-        self.set("currentLocation", turf.point([position.coords.longitude, position.coords.latitude]));
+        self.set("currentLocation", point([position.coords.longitude, position.coords.latitude]));
         self.trigger('received');
       });
     }
