@@ -10,7 +10,6 @@ gulp.task('js', function() {
     .pipe(browserify({
       debug: false
     }))
-    .pipe(uglify())
     .pipe(gulp.dest('./dist/js'));
 });
 

@@ -33,13 +33,14 @@ var Receiver = Backbone.Model.extend({
     }
   },
   onComplete: function() {
-    this.set("nearest", nearest(this.get("currentLocation"), this.get("htLocations")));
+    this.set("nearest", nearest(this.get("currentLocation"), this.get("htLocationsToday")));
     console.log(this.get("nearest"));
     this.trigger('complete');
     console.log(this.attributes);
   },
   today: function() {
     var d = new Date();
+    d = d.getDay();
     if (d === 0) {
       return "sunday";
     } else if (d === 1) {
@@ -65,7 +66,7 @@ var Receiver = Backbone.Model.extend({
     }).done(function(locations) {
       var htLocations = _.clone(locations);
       htLocations.features = _.filter(htLocations.features, function(feature) {
-        return feature.properties.heady === true;
+        return feature.properties["heady"] === true && feature.properties["type"] === "store";
       });
       var htLocationsToday = _.clone(htLocations);
       htLocationsToday.features = _.filter(htLocationsToday.features, function(feature) {
