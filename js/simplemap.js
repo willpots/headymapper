@@ -1,6 +1,6 @@
 L.mapbox.accessToken = 'pk.eyJ1Ijoid2lsbHBvdHMiLCJhIjoiSTJYS0RCNCJ9.jPqwSxzqRHyjLAUoFS3vgQ';
 var map = L.mapbox.map('map', 'mapbox.light', { zoomControl: false })
-.setView([44.07377376789347, -72.79678344726562], 9);
+.setView([44.28158729232232, -72.87643432617186], 9);
 var zoom = new L.Control.Zoom({ position: 'topright' }).addTo(map);
 var locations;
 var myLocation;
